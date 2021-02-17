@@ -1,0 +1,36 @@
+
+body{
+
+background-color:rgb(141, 157, 170);
+
+}
+
+
+
+h1,h2 {
+  color:rgb(97, 108, 117) ;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h1{
+font-size: 100px;
+text-align: center;
+
+}
+
+h2{
+  
+  font-size: 25px;
+}
+
+
+
+
+
+p{
+
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+
+}
